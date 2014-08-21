@@ -1,0 +1,12 @@
+{
+  "lineitem1": {
+      "description": "SSD Drive",
+      "count": 2,
+      "priceUSD": "250.00"
+  },
+  "lineitem2": {
+      "description": "RAM Chip",
+      "count": 4,
+      "priceUSD": "125.50"
+  }
+}
