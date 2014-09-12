@@ -4,7 +4,7 @@ import (
 	"testing"
 	"log"
 	"github.com/remogatto/prettytest"
-	jc "github.com/l3x/jsoncfgo"
+	jc "github.com/go-goodies/go_jsoncfg"
 	u "github.com/go-goodies/go_utils"
 	"fmt"
 )
